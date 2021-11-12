@@ -1,0 +1,40 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_extends
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 06:28+0000\n"
+"PO-Revision-Date: 2021-11-12 01:33-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Cristiam Carreño <cristiamcarreno@gmail.com>\n"
+"Language: es\n"
+
+#. module: product_extends
+#: model:ir.model.fields,field_description:product_extends.field_product_product__minimum_stock
+#: model:ir.model.fields,field_description:product_extends.field_product_template__minimum_stock
+#: model:ir.model.fields,field_description:product_extends.field_stock_quant__minimum_stock
+msgid "Minimum stock"
+msgstr "Stock mínimo"
+
+#. module: product_extends
+#: model:ir.model,name:product_extends.model_product_product
+msgid "Product"
+msgstr "Producto"
+
+#. module: product_extends
+#: model:ir.model,name:product_extends.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: product_extends
+#: model:ir.model,name:product_extends.model_stock_quant
+msgid "Quants"
+msgstr "Quants"
